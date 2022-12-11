@@ -26,5 +26,10 @@ learnVariable = learnVariable+ 1;
 
 Console.WriteLine(learnVariable);
 
+float testFloatVaruable = 0.876f;
+testFloatVaruable *= testFloatVaruable;
+
+Console.WriteLine(testFloatVaruable);
+
 
 
