@@ -20,5 +20,11 @@ Console.WriteLine(testDecimal);
 
 // keywords cannot be used as variables
 
+// increment operators
+int learnVariable = 1;
+learnVariable = learnVariable+ 1;   
+
+Console.WriteLine(learnVariable);
+
 
 
