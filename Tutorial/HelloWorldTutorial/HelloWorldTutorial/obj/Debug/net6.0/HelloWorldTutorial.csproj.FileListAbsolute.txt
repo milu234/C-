@@ -1,0 +1,15 @@
+C:\C#\Tutorial\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\HelloWorldTutorial.csproj.AssemblyReference.cache
+C:\C#\Tutorial\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\HelloWorldTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Tutorial\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\HelloWorldTutorial.AssemblyInfoInputs.cache
+C:\C#\Tutorial\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\HelloWorldTutorial.AssemblyInfo.cs
+C:\C#\Tutorial\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\HelloWorldTutorial.csproj.CoreCompileInputs.cache
+C:\C#\Tutorial\HelloWorldTutorial\HelloWorldTutorial\bin\Debug\net6.0\HelloWorldTutorial.exe
+C:\C#\Tutorial\HelloWorldTutorial\HelloWorldTutorial\bin\Debug\net6.0\HelloWorldTutorial.deps.json
+C:\C#\Tutorial\HelloWorldTutorial\HelloWorldTutorial\bin\Debug\net6.0\HelloWorldTutorial.runtimeconfig.json
+C:\C#\Tutorial\HelloWorldTutorial\HelloWorldTutorial\bin\Debug\net6.0\HelloWorldTutorial.dll
+C:\C#\Tutorial\HelloWorldTutorial\HelloWorldTutorial\bin\Debug\net6.0\HelloWorldTutorial.pdb
+C:\C#\Tutorial\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\HelloWorldTutorial.dll
+C:\C#\Tutorial\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\refint\HelloWorldTutorial.dll
+C:\C#\Tutorial\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\HelloWorldTutorial.pdb
+C:\C#\Tutorial\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\HelloWorldTutorial.genruntimeconfig.cache
+C:\C#\Tutorial\HelloWorldTutorial\HelloWorldTutorial\obj\Debug\net6.0\ref\HelloWorldTutorial.dll
