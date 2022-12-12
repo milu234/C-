@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using HelloWorldTutorial;
+
 var test = "noob" ;
 Console.WriteLine(test);
 
@@ -35,6 +37,19 @@ int num = 784949303;
 long bignum = num;
 Console.WriteLine(bignum);
 
+
+//Stack and heaps
+// Stack is for value type and Heap is for reference type.
+
+int testValue = 4;
+byte lowLevelValue = 3;
+bool boolValue = false;
+string stringValue = "String";
+
+StackHeapExample stackHeap = new StackHeapExample();
+
+int ans = stackHeap.AddFive(3);
+Console.WriteLine(ans);
 
 
 
