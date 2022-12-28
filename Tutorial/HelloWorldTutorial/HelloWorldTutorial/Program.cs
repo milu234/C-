@@ -105,6 +105,8 @@ string lastName = "Belfort";
 
 Console.WriteLine($"My name is {firstName} {lastName} ");
 
+Console.WriteLine("My name is {0} {1} ", firstName, lastName);
+
 
 
 
