@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using HelloWorldTutorial;
+using System.Security.Cryptography.X509Certificates;
 
 var test = "noob" ;
 Console.WriteLine(test);
@@ -70,6 +71,35 @@ Array.Sort(staticIntArray);
 
 Console.WriteLine(staticIntArray);
 Console.WriteLine(x);
+
+
+//Strings - that store text 
+
+string testString = "test";
+
+char[] lowLevelString = new[] {'t' , 'e', 's', 't' };
+
+String testStringCapital = "TEST";
+
+string message1;
+
+string message2 = null;
+
+//**** Important ***//
+
+// int test = null; integer cannot be null;
+
+//lITERAL vd Verbatim
+
+//Strings are immutable(Read only)
+
+string filepath = "C:\\ProgramFiles";  // Literal
+string filepathVerbatim = @"C:\\ProgramFiles";  // Verbaitm 
+
+
+
+
+
 
 
 
