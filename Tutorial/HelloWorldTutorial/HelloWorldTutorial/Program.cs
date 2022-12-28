@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using HelloWorldTutorial;
 using System.Security.Cryptography.X509Certificates;
+using System.Text;
 
 var test = "noob" ;
 Console.WriteLine(test);
@@ -108,7 +109,11 @@ Console.WriteLine($"My name is {firstName} {lastName} ");
 Console.WriteLine("My name is {0} {1} ", firstName, lastName);
 
 
+// String Builder
+// if you are performing thousand Example For loop with 100
 
+var sb = new StringBuilder() ;
+var testStringBuilder = sb.Append(firstName) ;
 
 
 
