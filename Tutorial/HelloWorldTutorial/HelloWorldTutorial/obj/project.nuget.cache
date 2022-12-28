@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "h4jLrD92edQ7iLipfithyd7ZoHNgqnNpPySYxXFlvWqvHwZkb/qw4b/UPi5d0tpt5LLtLoLK9EBEBzy47WZ6GA==",
+  "dgSpecHash": "Xr6r5CCnydk8Ku8mQF1FX9kbPRhXbV5MpMi/LUe/rF0o3M9fHSY5cesZCKWeaxFi4ax29bYW7xJ8a3B9o5vfGA==",
   "success": true,
   "projectFilePath": "C:\\C#\\Tutorial\\HelloWorldTutorial\\HelloWorldTutorial\\HelloWorldTutorial.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\UC321QW\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\UC321QW\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\UC321QW\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\UC321QW\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

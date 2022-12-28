@@ -51,6 +51,14 @@ StackHeapExample stackHeap = new StackHeapExample();
 int ans = stackHeap.AddFive(3);
 Console.WriteLine(ans);
 
+// Array is a collection of fixed sets of values
+
+int[] vs = new int[2];
+
+string[] vstr = new string[2];
+Console.WriteLine(vs);
+Console.WriteLine(vstr);
+
 
 
 
