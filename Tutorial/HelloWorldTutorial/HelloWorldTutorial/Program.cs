@@ -91,11 +91,19 @@ string message2 = null;
 
 //lITERAL vd Verbatim
 
-//Strings are immutable(Read only)
+
 
 string filepath = "C:\\ProgramFiles";  // Literal
 string filepathVerbatim = @"C:\\ProgramFiles";  // Verbaitm 
 
+//Strings are immutable(Read only) - Garbage collector will be used for unused variables
+
+
+// String interpolation + Composite Formatting
+string firstName = "Jordan";
+string lastName = "Belfort";
+
+Console.WriteLine($"My name is {firstName} {lastName} ");
 
 
 
