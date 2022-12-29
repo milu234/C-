@@ -125,6 +125,7 @@ foreach (Part part in lst)
 {
     Console.WriteLine(part.PartName.ToString());
     Console.WriteLine(part.PartId.ToString());
+    Console.WriteLine(part.PartId);
 }
 
 
